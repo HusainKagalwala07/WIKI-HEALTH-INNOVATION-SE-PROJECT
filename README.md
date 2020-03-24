@@ -12,3 +12,6 @@ Feature #2 Equipment or Device Search
 
 Feature #3 Generalize Google Search
 ![](https://raw.githubusercontent.com/HusainKagalwala07/WIKI-HEALTH-INNOVATION-SE-PROJECT/master/img/ss4.png)
+
+Feature #4 Substitute Medicine Search
+![](https://raw.githubusercontent.com/HusainKagalwala07/WIKI-HEALTH-INNOVATION-SE-PROJECT/master/img/ss5.png)
